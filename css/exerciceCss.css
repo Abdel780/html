@@ -1,0 +1,28 @@
+body{ 
+    color: darkviolet;
+    background-color: burlywood;
+}
+
+section p{
+    text-align: right;
+    color: crimson;
+}
+
+section li{
+    text-align: center;
+    font-style: italic;font-size: large;
+    color: black;
+}
+
+h1{
+
+    background-color: aqua;
+    font-style: oblique;
+    color: green;
+}
+
+.zone1{
+
+    text-transform: lowercase;
+    text-decoration-color: purple;
+}
